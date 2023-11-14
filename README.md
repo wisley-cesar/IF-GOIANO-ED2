@@ -1,3 +1,4 @@
+# IF GOIANO Campus Morrinhos. 
 # Bacharelado em Ciências da Computação - Estrutura de Dados 2
 
 Bem-vindo ao repositório dedicado à disciplina de Estrutura de Dados 2 do curso de Bacharelado em Ciências da Computação! Aqui, você encontrará uma compilação organizada de atividades e projetos relacionados aos principais tópicos abordados durante o período letivo.
@@ -34,3 +35,5 @@ Sinta-se à vontade para contribuir para este repositório! Se você identificar
 - Caso tenha dúvidas ou sugestões, abra uma issue para discussão.
 
 Agradecemos por sua contribuição e desejo a todos um semestre produtivo de estudos em Estrutura de Dados 2! 🚀
+
+
