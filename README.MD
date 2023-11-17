@@ -35,3 +35,5 @@ Sinta-se à vontade para contribuir para este repositório! Se você identificar
 - Caso tenha dúvidas ou sugestões, abra uma issue para discussão.
 
 Agradecemos por sua contribuição e desejo a todos um semestre produtivo de estudos em Estrutura de Dados 2! 🚀
+
+<img src="69_Morrinhos_Sticker.png" alt="imagem">
