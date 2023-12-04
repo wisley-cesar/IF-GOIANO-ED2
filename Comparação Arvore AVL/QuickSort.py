@@ -7,3 +7,4 @@ class QuickSort:
             menores = [x for x in arr[1:] if x <= pivot]
             maiores = [x for x in arr[1:] if x > pivot]
             return self.sort(menores) + [pivot] + self.sort(maiores)
+#
