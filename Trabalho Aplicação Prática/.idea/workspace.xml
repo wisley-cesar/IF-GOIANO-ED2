@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13dad6ea-e975-40bf-8ef4-ed2720ae2044" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arvore Rubro Negra/ArvoreAVL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arvore Rubro Negra/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-11 - Construindo o FlappyBird [Projeto Flappy Bird - Aula 2 de 4]/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arvore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLIInterface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cliente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Livro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NoArvore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdenadorLivros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pessoa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arvore Rubro Negra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arvore Rubro Negra/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arvore Rubro Negra/Arvore_Rubro_Negra.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Arvore Rubro Negra/Arvore_Rubro_Negra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/teste.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +111,7 @@
       <workItem from="1702302754331" duration="167000" />
       <workItem from="1702314949508" duration="1322000" />
       <workItem from="1702390594143" duration="676000" />
+      <workItem from="1702406825050" duration="56000" />
     </task>
     <servers />
   </component>
